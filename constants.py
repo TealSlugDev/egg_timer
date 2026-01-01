@@ -3,12 +3,14 @@
 
 APP_TITLE        = "🍳 Egg Timer Application"
 PIXEL_TITLE      = "Egg Timer"
-HOME_PAGE        = "Let's time\n        your Egg!"
+HOME_PAGE        = "Let's time\n    your Egg!"
 
 # Image Paths
 LIB_FONT_PATH   = "lib/font"
 LIB_IMG_PATH    = "lib/images"
-CHEF_IMG_PATH   = "lib/images/chef.png"
+CHEF_IMG_PATH   = "lib/images/chef_mouse.png"
+BORDER_IMG_PATH = "lib/images/pixel_border.png"
 
 OUTER_BG        = "#FDE481"
 INNER_BOX_BG    = "#FFF9C4"  # Inner lighter yellow
+START_BTN_COLOR = "#B45F06"
